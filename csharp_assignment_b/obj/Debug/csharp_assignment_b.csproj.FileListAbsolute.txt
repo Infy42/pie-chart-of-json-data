@@ -1,0 +1,38 @@
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.exe.config
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.exe
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.pdb
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Text.Json.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.ValueTuple.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Buffers.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.exe.config
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.CopyComplete
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.exe
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.pdb
+C:\Users\Marko29\source\repos\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Memory.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.exe.config
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.exe
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\csharp_assignment_b.pdb
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Memory.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Text.Json.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Buffers.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.ValueTuple.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.AssemblyReference.cache
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.exe.config
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.CoreCompileInputs.cache
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.csproj.CopyComplete
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.exe
+C:\Users\Beeb the Cutie Pie\Desktop\assignments\csharp_assignment_b\csharp_assignment_b\obj\Debug\csharp_assignment_b.pdb
